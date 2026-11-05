@@ -1,4 +1,4 @@
-# CSV Filehandling and Manipulation
+# Part B: CSV Filehandling and Manipulation
 
 This repository contains the deliverables for the **Sunday Project (Data Quality, Insights & CSV Operations)** as part of the AI Engineering Bootcamp (Module 02).
 
