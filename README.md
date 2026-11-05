@@ -42,11 +42,9 @@ You will need the following libraries installed in your Python environment:
 ### 2. File Structure
 Ensure the following structure is maintained in your directory/workspace:
 ```text
-├── Sunday_Project_Brief_100_Marks.pdf  # Student project brief
-├── sales_raw.csv                       # Original input data (from Part A)
 ├── cleaned_sales.csv                   # Output generated from Part A
 ├── sales_updated.csv                   # Output generated from Part B
-├── Part_B_Documentation.md             # Documentation specifically for Part B operations
+├── CSV File Handling and Manipulation.ipynb
 └── README.md                           # This instructions and metadata file
 ```
 
