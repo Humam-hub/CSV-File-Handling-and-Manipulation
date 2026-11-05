@@ -1,9 +1,9 @@
-# Sunday Project: Data Quality, Insights & CSV Operations
+# CSV Filehandling and Manipulation
 
 This repository contains the deliverables for the **Sunday Project (Data Quality, Insights & CSV Operations)** as part of the AI Engineering Bootcamp (Module 02).
 
 ## GitHub Repository Link
-- **Repository URL:** [INSERT_YOUR_GITHUB_REPOSITORY_LINK_HERE]
+- **Repository URL:** https://github.com/Humam-hub/CSV-File-Handling-and-Manipulation
 
 ---
 
